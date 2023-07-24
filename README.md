@@ -1,6 +1,6 @@
 # Epirium - UI Component Library
 
-![Epirium Logo](link/to/your/logo.png)
+![Epirium Logo](https://raw.githubusercontent.com/akshaynstack/epiriumdocs/main/featuredgithubcover.png)
 
 Epirium is a cutting-edge UI Component Library designed to empower developers and designers with a seamless and efficient way to build stunning user interfaces for their web applications. With a focus on simplicity, performance, and flexibility, Epirium offers a comprehensive set of reusable and customizable components that can be effortlessly integrated into projects built with React, Next.js, Gatsby, or any other modern web framework.
 
